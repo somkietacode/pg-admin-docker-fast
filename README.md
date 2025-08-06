@@ -1,6 +1,4 @@
-Bien sûr, voici une proposition de fichier `README.md` pour accompagner les fichiers `Dockerfile` et `manage-pgadmin.sh`.
 
----
 
 # Déploiement de pgAdmin avec Docker et Persistance
 
